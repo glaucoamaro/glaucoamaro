@@ -1,6 +1,6 @@
 ### Hi, my name is Glauco, I'm a Full Stack student! 👋
 
-<div style="display: inline-block">
+<div style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=glaucoamaro&show_icons=true&theme=tokyonight" />
   </a>
