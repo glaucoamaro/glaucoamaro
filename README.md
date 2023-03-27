@@ -1,11 +1,13 @@
 ### Hi, my name is Glauco, I'm a Full Stack student! 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=glaucoamaro&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight" />
-</a>
+<div style="display: inline-block">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=glaucoamaro&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight" />
+  </a>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
