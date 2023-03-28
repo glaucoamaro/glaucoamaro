@@ -1,5 +1,5 @@
 <div align="center" style="display: inline_block">
-  <h2> Olá, eu me chamo Glauco! 😃 Seja bem vindo(a) ao meu perfil! 👋 </h2>
+  <h2> Olá, eu sou Glauco! 😃 Seja bem vindo(a) ao meu perfil! 👋 </h2>
 </div>
 
 <div align="center" style="display: inline_block">
