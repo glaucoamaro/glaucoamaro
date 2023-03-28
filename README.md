@@ -24,6 +24,6 @@
 
 ##
 
-<h6 align="center" style="display: inline_block"> 💫 #desenvolvimentoweb, #computação, #games, #tecnologia, #frontend </h6>
+<h6 align="center" style="display: inline_block"> 💁‍♂️ #desenvolvimentoweb, #computação, #games, #tecnologia, #frontend </h6>
 
 ##
