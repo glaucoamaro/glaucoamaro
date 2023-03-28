@@ -1,5 +1,8 @@
+##
+
 <div align="center" style="display: inline_block">
-  <h2> Olá, eu sou Glauco! 😃 Seja bem vindo(a) ao meu perfil! 👋 </h2>
+  <h3> Olá, eu me chamo Glauco! 😃 Seja bem vindo(a) ao meu perfil! 👋🙂 </h3>
+  <h4></h4>
 </div>
 
 <div align="center">
@@ -9,6 +12,7 @@
 </div>
 
 ##
+<h4></h4>
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
