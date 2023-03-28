@@ -2,10 +2,6 @@
   <h2> Olá, eu sou Glauco! 😃 Seja bem vindo(a) ao meu perfil! 👋 </h2>
 </div>
 
-<div> 
-
-</div>
-
 <div align="center">
   <a href="[https://github.com/glaucoamaro](https://github.com/glaucoamaro)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glaucoamaro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -22,7 +18,6 @@
   <img align="center" alt="Python" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> 
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 </div>
-
 ##
 
 <h6 align="center" style="display: inline_block"> 💁‍♂️ #desenvolvimentoweb, #computação, #games, #tecnologia, #frontend </h6>
